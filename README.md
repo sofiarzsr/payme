@@ -1,4 +1,6 @@
-# payme
+<div align="center">
+  <b>payme</b>
+</div>
 
 <div align="center">
   <b>Personal finance tracking application with rolling monthly budgets.</b>
