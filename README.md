@@ -8,6 +8,9 @@
 
 #
 
+<img width="1538" height="786" alt="image" src="https://github.com/user-attachments/assets/360a50a3-b0ee-4664-b1b7-9be17dcf2458" />
+
+
 payme was designed for self-hosting in my homelab environment. Run it on a Raspberry Pi, NAS, or any always-on server to track your household finances privately without relying on third-party services. Your financial data stays on your network, under your control.
 
 I grew tired of my spreadsheet, and did not care for any of the third party services out there. So I decided to build my own. As such, you can see this is very opinionated. The lack of advanced financal budgeting features is intentional, though, I am open to different features and components.
